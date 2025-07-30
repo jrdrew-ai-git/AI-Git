@@ -35,25 +35,3 @@ Drew, J. (JR) W., Jr. (2025, July 29). AI Git: Unified Knowledge Provenance Fram
 ```
 
 Released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
-
-
----
-
-## ✅ Next Step (While GitHub is Down)
-1. Open **TextEdit** (Mac) or **Notepad** (Windows).
-2. Paste the content above.
-3. Save the file as:
-
-README.md
-
-- Ensure it’s plain text (on Mac: Format → Make Plain Text).
-- Add **`.md`** as the extension (not `.txt`).
-
-4. Place this file into your `AI-Git-Knowledge-Provenance` folder.
-
----
-
-When GitHub comes back, you’ll upload this folder and your repo will instantly look professional.  
-
-Would you like me to also give you a **tiny "LICENSE" file** (matching OSF’s CC-BY 4.0) so GitHub shows it clearly at the top?
-
