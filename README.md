@@ -1,28 +1,32 @@
 # AI Git: Unified Knowledge Provenance Framework for Safe Scaling
 
-[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2FUFEK5-blue)](https://osf.io/ufek5)
+[![DOI](https://img.shields.io/badge/DOI-10.17605%2FOSF.IO%2Fufek5-blue)](https://osf.io/ufek5)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 An open framework to prevent **AI model collapse** by mitigating recursive self-training, preserving human-grounded knowledge, and enabling federated provenance controls.
 
-## 📑 Abstract
-As AI models approach web-scale training and recursive learning risks grow, the danger of model collapse—where models degrade by re-ingesting their own outputs—becomes pressing. **AI Git** introduces a governance and provenance framework designed to:
-- Fingerprint outputs across generations using semantic embedding and timewarp techniques.
-- Tag and weight human-enriched knowledge to preserve factual anchors.
-- Federate provenance checks across labs via cryptographic trust mechanisms.
+---
 
-By combining scalable data pipelines, federated provenance exchange, and human-in-the-loop auditing, AI Git offers a blueprint to prevent recursive collapse and ensure AI remains anchored in verifiable human knowledge.
+## Download Project Files
+- [Whitepaper (PDF)](docs/AI-Git_Framework_v1.0.pdf)
+- [Whitepaper (DOCX)](docs/AI-Git_Framework_v1.0.docx)
+- [Hash Log (TXT)](metadata/AI-Git_Framework_v1.0_HashLog.txt)
 
-## 🔗 OSF Record
-This project is permanently archived and citable via OSF:  
-**DOI:** [https://osf.io/ufek5](https://osf.io/ufek5)
+---
 
-## 📚 Cite This Work
+## Metadata & Provenance
+- [Metadata folder](metadata/) – Cryptographic hash logs and version lineage.  
+- [Docs folder](docs/) – Core framework documents.
+
+---
+
+## Citation (APA + BibTeX)
 If you use or build upon AI Git, please cite it:
 
-**APA:**
-Drew, J. (JR) W., Jr. (2025, July 29). AI Git: Unified Knowledge Provenance Framework for Safe Scaling. Retrieved from https://osf.io/ufek5
+**APA**  
+Drew, J. (JR) W., Jr. (2025, July 29). *AI Git: Unified Knowledge Provenance Framework for Safe Scaling.* OSF. [https://osf.io/ufek5](https://osf.io/ufek5)
 
-**BibTeX:**
+**BibTeX**
 ```bibtex
 @misc{drew2025aigit,
   author = {Drew, James (JR) W., Jr.},
@@ -32,6 +36,3 @@ Drew, J. (JR) W., Jr. (2025, July 29). AI Git: Unified Knowledge Provenance Fram
   publisher = {OSF},
   url = {https://osf.io/ufek5}
 }
-```
-
-Released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
