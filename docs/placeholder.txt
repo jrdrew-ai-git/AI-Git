@@ -1,0 +1,1 @@
+This folder mirrors OSF's /docs directory. Core documentation files go here.
