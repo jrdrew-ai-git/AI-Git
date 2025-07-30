@@ -1,0 +1,10 @@
+AI Git - Unified Knowledge Provenance Framework
+Version: v1.0
+Date: 2025-07-28
+
+SHA-256 Hashes:
+PDF:  30460b1f99f0a333f160175185f79ede86b8f9bf734f719a2e5380627d5aeb6c  AI-Git_Framework_v1.0.pdf
+DOCX: b1f027d60e36a1b159294df8124be31979164c2602d8c179c4205a6b8d91c1d2  AI-Git_Framework_v1.0.docx
+
+Notes:
+These hashes verify the integrity of the files uploaded to OSF.
