@@ -23,10 +23,13 @@ An open framework to prevent **AI model collapse** by mitigating recursive self-
 ---
 
 ## Citation (APA + BibTeX)
-If you use or build upon AI Git, please cite it:
+<details>
+<summary>📑 How to Cite This Work</summary>
 
-**APA**  
-Drew, J. (JR) W., Jr. (2025, July 29). *AI Git: Unified Knowledge Provenance Framework for Safe Scaling.* OSF. [https://osf.io/ufek5](https://osf.io/ufek5)
+If you use or build upon AI Git, please cite:
+
+**APA**
+Drew, J. (JR) W., Jr. (2025, July 29). *AI Git: Unified Knowledge Provenance Framework for Safe Scaling.* OSF. https://osf.io/ufek5  
 
 **BibTeX**
 ```bibtex
