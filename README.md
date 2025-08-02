@@ -4,6 +4,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jrdrew-ai-git/AI-Git/pulls)
 ![Made with OSF + GitHub](https://img.shields.io/badge/Made%20with-OSF%20+%20GitHub-1f425f.svg)
+[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20the%20Conversation-blue)](https://github.com/jrdrew-ai-git/AI-Git/discussions)
 <!-- 
 Remove this line, the line above and the dash dash arrow below to restore visibility to Stars & Forks
 ![Stars](https://img.shields.io/github/stars/jrdrew-ai-git/AI-Git?style=social)
